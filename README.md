@@ -6,4 +6,4 @@ This project aims to Risk Assessment.
 
 ## Documentation
 
-For more details, refer to the [project documentation](Aritifical-intelligence-app.pdf).
+For more details, refer to the [project documentation](Aritificial intelligence app.pdf).
